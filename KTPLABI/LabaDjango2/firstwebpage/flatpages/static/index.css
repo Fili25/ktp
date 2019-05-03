@@ -12,7 +12,7 @@ body {
     margin-bottom: 0; 
     } 
     h4 { 
-    font-size: 26px; 
+    font-size: 14px; 
     } 
     ul, ol { 
     margin: 0; 
@@ -21,6 +21,6 @@ body {
     padding: 5px; 
     } 
     img { 
-    height: 300px; 
-    width: 500; 
+    height: 30px; 
+    width: 50; 
     }
